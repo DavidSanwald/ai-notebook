@@ -1,4 +1,4 @@
-![<3](ai-notebook/screen.png)
+![<3](c[https://raw.githubusercontent.com/DavidSanwald/ai-notebook/master/screen.png)
 
 Began working on this because I wanted to try out mybinder(Some amazing free service to share interactive notebooks).
 Visit an interactive executable version of this notebook on:
