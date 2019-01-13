@@ -1,4 +1,4 @@
-![<3](https://github.com/DavidSanwald/ai-notebook/blob/master/cliff_map.png)
+![<3](https://github.com/DavidSanwald/ai-notebook/screen.png)
 
 Began working on this because I wanted to try out mybinder(Some amazing free service to share interactive notebooks).
 Visit an interactive executable version of this notebook on:
